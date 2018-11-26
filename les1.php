@@ -1,8 +1,8 @@
 <?php
-
+// Techniek college Rotterdam
 // Dit programma print naam
 
-// Initialisatie
+// Initialisatie variabelen
 $veld1 = 10;
 $veld2 = 20;
 
